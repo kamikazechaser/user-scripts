@@ -2,7 +2,7 @@
 // @name         Shodan IP Dump
 // @namespace    kamikazechaser/shodan-ip-dump
 // @version      0.1
-// @description  Dump all IPs on a Shodan serach page for easier selecting
+// @description  Dump all IPs on a Shodan search page for easier selecting
 // @author       kamikazechaser
 // @match        https://www.shodan.io/search?query=*
 // @grant        none
